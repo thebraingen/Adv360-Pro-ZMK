@@ -1,3 +1,9 @@
+macro_cmd_space: macro_cmd_space{
+compatible = "zmk,behavior-macro";
+label = "macro_cmd_space";
+#binding-cells = <0>;
+bindings = <&kp RGUI>, <&kp SPACE>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
