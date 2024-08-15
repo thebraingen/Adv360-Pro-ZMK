@@ -1,87 +1,47 @@
 [
-	{
-		"names": [
-			"LGUI SPACE"
-		],
-		"description": "LGUI SPACE",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"0"
-		],
-		"description": "0",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"5"
-		],
-		"description": "5",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"0"
-		],
-		"description": "0",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"5"
-		],
-		"description": "5",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	}
+  {
+    "names": ["LGUI SPACE"],
+    "description": "LGUI SPACE",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["0"],
+    "description": "0",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["5"],
+    "description": "5",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  }
 ]

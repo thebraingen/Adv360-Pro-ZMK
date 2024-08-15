@@ -40,3 +40,15 @@ label = "macro_kinesis";
 #binding-cells = <0>;
 bindings = <&kp LS(K)>, <&kp I>, <&kp N>, <&kp E>, <&kp S>, <&kp I>, <&kp S>;
 };
+macro_bt_0: macro_bt_0{
+compatible = "zmk,behavior-macro";
+label = "macro_bt_0";
+#binding-cells = <0>;
+bindings = <&tog 0>, <&bt BT_SEL 0>;
+};
+macro_bt_1: macro_bt_1{
+compatible = "zmk,behavior-macro";
+label = "macro_bt_1";
+#binding-cells = <0>;
+bindings = <&tog 5>, <&bt BT_SEL 1>;
+};
